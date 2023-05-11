@@ -7,4 +7,4 @@ include_directories(.)
 
 add_executable(TP_2
         main.cpp
-        README.md)
+        README.md "01- Nodo/nodo.cpp" "01- Nodo/nodo.h")
