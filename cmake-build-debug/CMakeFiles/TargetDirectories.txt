@@ -1,0 +1,3 @@
+C:/Users/agabr/OneDrive/02- FACULTAD/AYPD-TPS/TP-2/cmake-build-debug/CMakeFiles/TP_2.dir
+C:/Users/agabr/OneDrive/02- FACULTAD/AYPD-TPS/TP-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/agabr/OneDrive/02- FACULTAD/AYPD-TPS/TP-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
